@@ -21,6 +21,9 @@
 <br />
 <br />
 
+<summary>:zap: Github Stats</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanz29&layout=compact&hide=tsql&show_icons=true" />
 
 
 
@@ -44,13 +47,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 <br />
 <br />
-<details>
-  <summary>:zap: Github Stats</summary>
+  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanz29&layout=compact&hide=tsql&show_icons=true" />
-
-</details>
 
 [twitter]: https://twitter.com/AryamanZ29
 [instagram]: https://www.instagram.com/aryaman_z29/
