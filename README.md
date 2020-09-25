@@ -17,6 +17,7 @@
 [<img align="left" alt="Aryamanz29  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aryamanz29  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aryamanz29  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aryamanz29  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 <br />
 
@@ -51,7 +52,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Aryaman Github Stats" src="https://github-readme-stats.Aryamanz29.vercel.app/api?username=Aryamanz29&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanz29&layout=compact&hide=tsql&show_icons=true" />
 
 </details>
 
@@ -59,3 +61,4 @@
 [instagram]: https://www.instagram.com/aryaman_z29/
 [linkedin]: https://www.linkedin.com/in/aryaman-78382a12b
 [github]:https://github.com/Aryamanz29
+[gmail]:mailto:aryamanz29@gmail.com
