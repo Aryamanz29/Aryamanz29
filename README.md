@@ -18,8 +18,6 @@
 [<img align="left" alt="Aryamanz29  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aryamanz29  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Aryamanz29  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<br />
-<br />
 
 <summary>:zap: Github Stats</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true" />
