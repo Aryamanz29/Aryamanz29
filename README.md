@@ -20,8 +20,8 @@
 [<img align="left" alt="Aryamanz29  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 ### Github stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=synthwave" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanz29&layout=compact&hide=tsql&show_icons=true&theme=synthwave" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=merko" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanz29&layout=compact&hide=tsql&show_icons=true&theme=merko" />
 <br />
 <br />
 <br />
