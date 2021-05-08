@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aryaman 😄</h1>
 <h2 align="center">“Tell me and I forget, teach me and I may remember, involve me and I learn.” – Benjamin Franklin</h3>
 <img src="https://images.unsplash.com/photo-1602687073103-580341fe478a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanz29&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanz29" /> 
+<p align="left"> 
  <a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a> </p>
 
 
