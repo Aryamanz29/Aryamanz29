@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aryaman 😄</h1>
+<h1 align="center"> I'm Aryaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2 align="center">“Tell me and I forget, teach me and I may remember, involve me and I learn.” – Benjamin Franklin</h3>
-<img src="https://images.unsplash.com/photo-1602687073103-580341fe478a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80">
+
+![background.png](./images/background.png)
+
 <p align="left"> 
  <a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a> </p>
 
@@ -34,15 +36,18 @@
 <br>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=47ma690lp8o6ekhb5ilqu91wy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=47ma690lp8o6ekhb5ilqu91wy&redirect=true)
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=tokyonight" />
+<p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=47ma690lp8o6ekhb5ilqu91wy&cover_image=true&theme=novatorem">
 
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=47ma690lp8o6ekhb5ilqu91wy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=47ma690lp8o6ekhb5ilqu91wy&redirect=true) -->
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=radical" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryamanz29&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aryamanz29&theme=radical" />
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryamanz29&theme=radical)](https://git.io/streak-stats) -->
 
 <h2 align="center">Sad Day ah 😥? Let's bring a Smile on your Face 😄</h2>
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Refresh again to view Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Refresh again to view Jokes Card" />
 </p>
 
 [twitter]: https://twitter.com/AryamanZ29
