@@ -48,10 +48,7 @@
 
 
 <p align="center">
-<a href="https://dev.to/aryamanz29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aryamanz29" height="30" width="40" /></a>
-<a href="https://twitter.com/AryamanZ29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AryamanZ29" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryaman_linkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aryaman_z29" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryaman_linkedIn"/></a> <a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aryaman_z29" /></a>
 <br>
 <br>
 <a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a>
