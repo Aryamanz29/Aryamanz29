@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Aryaman;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Aryaman;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;">
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
