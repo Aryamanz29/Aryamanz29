@@ -1,7 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=600&height=70&lines=Hey+there+👋🏻+I'm+Aryaman;+Software+Engineer+💻;+Open+Source+Contributor+⚡;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=adaaaa&size=30&center=true&vCenter=true&width=600&height=70&lines=Hey+there+👋🏻+I'm+Aryaman;+Software+Engineer+💻;+Open+Source+Contributor+⚡;">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
