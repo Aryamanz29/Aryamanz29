@@ -46,21 +46,22 @@ This isn't a resume - it's a snapshot of what drives me:
 
 I'm drawn to challenges that make me think, systems that make life easier, and ideas that push the boundaries of what's possible.  
 
-If you've read this far, thanks for stopping by. I’m always open to discussions about systems, design, or interesting engineering challenges 🙌
+If you've read this far, thanks for stopping by. I'm always open to discussions about systems, design, or interesting engineering challenges 🙌
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
 ## ⚡ Tech Stack  
 
-### **Languages:**  
+### **Languages:**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 
-### **Technologies / Frameworks:**  
+### **Technologies / Frameworks:**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![DRF](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  ![Argo Workflows](https://img.shields.io/badge/Argo-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)  ![Temporal](https://img.shields.io/badge/Temporal-FF6161?style=for-the-badge&logo=temporal&logoColor=white)  ![Pydantic](https://img.shields.io/badge/Pydantic-00A5CF?style=for-the-badge&logo=python&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![OpenWRT](https://img.shields.io/badge/OpenWRT-EE1C25?style=for-the-badge&logo=openwrt&logoColor=white)  
 
 #### *…and always open to learning new tools, frameworks, and technologies on the fly 😄⚒️*  
  
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
