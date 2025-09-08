@@ -1,60 +1,120 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-<!-- ![banner.png](./images/github-banner.png)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png) -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Aryaman;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=600&height=70&lines=Hey+there+👋🏻+I'm+Aryaman;+Software+Engineer+💻;+Open+Source+Contributor+⚡;">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-![background.png](./images/github-back.png)
-
 <br>
+
+<p align="center">
+  <img src="./images/github-back.png" alt="background banner"/>
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- ----------- HEAD SECTION END ------------ -->
 
+<!-- ----------- ABOUT SECTION ------------ -->
+
+I build systems, tools, and processes that make engineering smoother, more reliable, and more meaningful.  
+For me, engineering is about solving real puzzles - understanding how networks, systems, and people interact, and finding ways to make them work together at scale.  
+
+I've been shaped by questions like:  
+- How do distributed systems stay resilient when things inevitably fail?  
+- How can something grow from a handful of users to millions without breaking?  
+- What makes a tool not just functional, but actually empowering for the people who use it?  
+
+Some of the paths I've explored so far:  
+
+🌍 **Open Source:** Long-time contributor at [OpenWISP](https://openwisp.org), where I've learned how large-scale networking and monitoring systems evolve. Through programs like [GSoC'25](https://summerofcode.withgoogle.com), GWOC'21, SWOC'21, and [GSSOC'22](https://gssoc.girlscript.tech/), I've mentored hundreds of students, helping them start their own open-source journeys.
+
+🏢 **Startups:** Worked with different startups where speed, pragmatism, and good design often needed to coexist. Those experiences taught me how small teams can build systems that have a real impact, and how constraints can spark creative solutions.  
+
+🧩 **At Atlan**, I've contributed to shaping the developer ecosystem - from the [Python SDK](https://github.com/atlanhq/atlan-python) (**365K+ monthly downloads**) to the [CLI](https://github.com/atlanhq/atlan-cli-releases), creating custom packages with Argo Workflows, building apps with the Apps Framework, and maintaining the [Developer Portal](https://developer.atlan.com). Through this work, I've learned how metadata, automation, and thoughtful developer experience can do more than simplify tasks - they help data teams move faster, collaborate more effectively, and trust the systems they rely on 💙
+
+✍️ **Writing & Sharing:** I document what I learn - from [automatic ZeroTier tunnel management (GSoC’23)](https://aryamanz29.medium.com/add-support-for-automatic-management-of-zerotier-tunnels-791be96903bf) to [Iperf3 monitoring checks (GSoC'22)](https://aryamanz29.medium.com/iperf-check-to-openwisp-monitoring-gsoc22-project-report-2661eddd3f77). Writing helps me reflect, clarify my thinking, and share insights with others.  
+
+I'm inspired by [Eric S. Raymond's *Art of Unix Programming*](https://cscie2x.dce.harvard.edu/hw/ch01s06.html): building small, resilient components that do one thing well, then connecting them into something bigger. That philosophy influenced [OpenWISP2](https://openwisp.org), and it still shapes how I approach systems and tools today.  
+
+This isn't a resume - it's a snapshot of what drives me:  
+- **Systems and architecture** - from networks to distributed services  
+- **Scaling and reliability** - designing for growth and resilience  
+- **Collaboration and community** - open source and team dynamics  
+- **Thoughtful tools** - building experiences that empower people  
+- **Continuous learning** - reading, experimenting, and sharing  
+
+I'm drawn to challenges that make me think, systems that make life easier, and ideas that push the boundaries of what's possible.  
+
+If you've read this far, thanks for stopping by. I’m always open to discussions about systems, design, or interesting engineering challenges 🙌
+
 <!-- ----------- TECH STACK SECTION ------------ -->
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚡ Tech Stack  
+
+### 🛠 Technical Skills
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+
+**Technologies / Frameworks:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![DRF](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Argo Workflows](https://img.shields.io/badge/Argo-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)  
+![Temporal](https://img.shields.io/badge/Temporal-FF6161?style=for-the-badge&logo=temporal&logoColor=white)  
+![Pydantic](https://img.shields.io/badge/Pydantic-00A5CF?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![OpenWRT](https://img.shields.io/badge/OpenWRT-EE1C25?style=for-the-badge&logo=openwrt&logoColor=white)  
+
+**Core Concepts / Others:**  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge)  
+![Networking](https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge)  
+![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge)  
+![OS](https://img.shields.io/badge/Operating%20Systems-6A1B9A?style=for-the-badge)  
+
+*…and always open to learning new tools, frameworks, and technologies on the fly.*  
+ 
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
-
-<!-- ----------- TECH STACK SECTION END------------ -->
 
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=aura_dark" />
+### 📊 GitHub Stats  
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Aryamanz29&theme=onedark_duo" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=Aryamanz29&theme=tokyonight" height="180em"/>
+</p>
 
-[![Aryamans's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aryamanz29&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryamanz29&theme=tokyo-night"/>
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
-
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
+### 🌍 Connect With Me  
 
 <p align="center">
-<a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryaman_linkedIn"/></a> <a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aryaman_z29" /></a>
-<br>
-<br>
-<a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a>
+<a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+<a href="https://www.linkedin.com/in/aryamanz29" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="twitter"/></a>
+<a href="mailto:aryamanz29@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
-
-[twitter]: https://twitter.com/AryamanZ29
-[instagram]: https://www.instagram.com/aryaman_z29/
-[linkedin]: https://www.linkedin.com/in/aryamanz29
-[github]:https://github.com/Aryamanz29
-[gmail]:mailto:aryamanz29@gmail.com
