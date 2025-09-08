@@ -17,7 +17,6 @@
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- ABOUT SECTION ------------ -->
-
 I build systems, tools, and processes that make engineering smoother, more reliable, and more meaningful.  
 For me, engineering is about solving real puzzles - understanding how networks, systems, and people interact, and finding ways to make them work together at scale.  
 
@@ -51,39 +50,15 @@ If you've read this far, thanks for stopping by. I’m always open to discussion
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
-### ⚡ Tech Stack  
+## ⚡ Tech Stack  
 
-### 🛠 Technical Skills
+### **Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+### **Technologies / Frameworks:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![DRF](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  ![Argo Workflows](https://img.shields.io/badge/Argo-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)  ![Temporal](https://img.shields.io/badge/Temporal-FF6161?style=for-the-badge&logo=temporal&logoColor=white)  ![Pydantic](https://img.shields.io/badge/Pydantic-00A5CF?style=for-the-badge&logo=python&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![OpenWRT](https://img.shields.io/badge/OpenWRT-EE1C25?style=for-the-badge&logo=openwrt&logoColor=white)  
 
-**Technologies / Frameworks:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![DRF](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Argo Workflows](https://img.shields.io/badge/Argo-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)  
-![Temporal](https://img.shields.io/badge/Temporal-FF6161?style=for-the-badge&logo=temporal&logoColor=white)  
-![Pydantic](https://img.shields.io/badge/Pydantic-00A5CF?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![OpenWRT](https://img.shields.io/badge/OpenWRT-EE1C25?style=for-the-badge&logo=openwrt&logoColor=white)  
-
-**Core Concepts / Others:**  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge)  
-![Networking](https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge)  
-![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge)  
-![OS](https://img.shields.io/badge/Operating%20Systems-6A1B9A?style=for-the-badge)  
-
-*…and always open to learning new tools, frameworks, and technologies on the fly.*  
+#### *…and always open to learning new tools, frameworks, and technologies on the fly 😄⚒️*  
  
 
 
@@ -91,22 +66,22 @@ If you've read this far, thanks for stopping by. I’m always open to discussion
 
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=tokyonight" height="180em"/>
-  <img src="https://streak-stats.demolab.com?user=Aryamanz29&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryamanz29&show_icons=true&count_private=true&theme=dark" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=Aryamanz29&theme=dark-smoky" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryamanz29&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryamanz29&theme=high-contrast"/>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-### 🌍 Connect With Me  
+## 🌍 Connect With Me  
 
 <p align="center">
 <a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
